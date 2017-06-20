@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">IEEE MJCET</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cis">CIS</string>
+    <string name="cistext1">
+        <b>About CIS\n</b>
+"CIS focuses on computational intelligence, a collection of biologically and linguistically motivated computational paradigms"
+        "including the theory, design, application, and development of neural networks, connectionist systems,"
+        "evolutionary algorithms, fuzzy systems, and hybrid intelligent systems.\n\n"
+        "The society sponsors various conferences, including the bi-annual IEEE World Congress on Computational Intelligence."
+    </string>
+    <string name="cistext2">
+        <b>"Goals\n"</b>
+        "The main goals of CIS under this umbrella are directed towards promoting of the creation of local roots"
+        "for our Society in all geographical areas worldwide, the awareness about the activities that we organize,"
+        "to identify the members' needs, to create services for them, to recognize the excellence of members and "
+        "volunteers, and to develop the overall membership.\n\n"
+        "We provide service to our members through a number of programs. We organize social activities in CIS-conferences,"
+        "webinar series and summer research grants to students, travel grants to student members presenting papers"
+        "at IEEE CIS conferences, as well as to professional members from developing countries. \n"
+        "Being a CIS member, you will be able to gain exclusive benefits from these programs: get reduced registration"
+        "rates for CIS conferences; opportunity to apply for funding to travel to CIS conferences; participate in summer"
+        "schools around the world; apply for research grants; gain access to an academic network of scientists and engineers"
+        "working on CI; connect with other members through the social networks and get informed on job positions; connect with"
+        "local industries and recent graduates; get tips on publishing at CIS journals and participate in CIS webinars.\n"
+
+    </string>
+    <string name="cistext3">
+        "<b>Website:</b>"
+            "\n http://www.ieee-cis.org"
+    </string>
+    <string name="icstext1">
+        <b>Vision</b>
+        "\n To be the leading provider of technical information, community services, and personalized services to the world's"
+        "computing professionals."
+    </string>
+    <string name="icstext2">
+       <b>Goal</b>
+        "\nBe essential to the global technical community and computer professionals everywhere and be universally"
+        "recognized for the contributions of technical professionals in developing and applying technology to improve"
+        "global conditions."
+
+    </string>
+    <string name="icstext3">
+       <b>About ICS</b>
+        "\n The IEEE Computer Society is the world's leading membership organization dedicated to computer science"
+        "and technology. Serving more than 60,000 members, the IEEE Computer Society is the trusted information,"
+        "networking, and career-development source for a global community of technology leaders that includes researchers,"
+        "educators, software engineers, IT professionals, employers, and students.\n\n"
+        "The IEEE Computer Society sponsors more than 200 technical conferences and events each year, including the"
+        "industry-oriented "Rock Stars" series, all over the world, aimed at research and industry professionals."
+        "Our publications are peer-reviewed, indexed, and authored by technology thought leaders worldwide,"
+        "and include 17 scholarly journals and 13 magazines featuring the latest technology trends.\n"
+        "We also offer cutting-edge products such as the myComputer app (available for iOS or Android),"
+        "that provide unprecedented user-driven access to our content, and our Digital Library with more"
+        "than 550,000 articles and papers spanning the full spectrum of computer science and technology.\n"
+
+    </string>
+    <string name="icstext4">
+       <b>Website:\n</b>
+        "https://www.computer.org/"
+
+    </string>
+    <string name="pestext1">
+        <b>Mission</b>
+        "\nTo be the leading provider of scientific and engineering information on electric power and energy"
+        "for the betterment of society, and the preferred professional development source for our members"
+        "~ Approved by the IEEE PES Governing Board, 17 July 2003."
+    </string>
+    <string name="pestext2">
+        <b>About PES</b>
+        "\n The Power and Energy Society (PES) provides the world's largest forum for sharing the latest"
+        "in technological developments in the electric power industry, for developing standards that guide"
+        "the development and construction of equipment and systems, and for educating members of the industry"
+        "and the general public. Members of the Power and Energy Society are leaders in this field, and they —"
+        "and their employers — derive substantial benefits from involvement with this unique and outstanding association."
+
+    </string>
+    <string name="pestext3">
+        <b>PES Field of Interest</b>
+        "\nThe scope of the Society embraces research, development, planning, design, construction,"
+        "maintenance, installation and operation of  equipment, structures, materials and power systems"
+        "for the safe, sustainable, economic and reliable conversion, generation, transmission, distribution,"
+        "storage and usage of electric energy, including its measurement and control."
+    </string>
+    <string name="pestext4">
+       <b>"Website:"</b>
+        "\n http://www.ieee-pes.org/"
+    </string>
+    <string name="castext1">
+        <b>Mission</b>
+        "\n Our mission is to foster CASS members across disciplines to address humanity’s grand challenges"
+        "by conceiving and pioneering solutions to fundamental and applied problems in circuits and systems."
+    </string>
+    <string name="castext2">
+        <b>Vision</b>
+        "\n The IEEE Circuits and Systems Society (CASS) believe that the Grand Engineering Challenges"
+        "of the 21st century can only be addressed in an inter-disciplinary and cross-disciplinary manner."
+        "The Society’s unique and profound expertise in Circuits, Systems, Signals, Modeling, Analysis, and"
+        "Design can have a decisive impact on important issues such as Sustainable Energy, Bio-Health, Green"
+        "Information Technology, Nano-Technology, and Scalable Information Technology Systems."
+    </string>
+    <string name="castext3">
+        <b>About CASS</b>
+        "\n The IEEE Circuits and Systems Society is the leading organization that promotes the advancement of the"
+        "theory, analysis, design, tools, and implementation of circuits and systems. The field spans their theoretical"
+        "foundations, applications, and architectures, as well as circuits and systems implementation of algorithms for"
+        "signal and information processing."
+        "\n The Society brings engineers, researchers, scientists and others involved in circuits and systems applications access"
+        "to the industry’s most essential technical information, networking opportunities, career development tools and"
+        "many other exclusive benefits."
+        "\n Local members with similar technical interests engage in professional exchange through the Society’s 10 regional chapters"
+        "in the United States, Canada, Europe, the Middle East, Africa, Latin America, Asia, Australia and the Pacific."
+    </string>
+    <string name="castext4">
+        <b>Website:</b>
+        "\n http://ieee-cas.org/"
+    </string>
+    <string name="wietext1">
+        <b>Mission and Vision</b>
+        "\n\n Our goal is to facilitate the recruitment and retention of women in technical disciplines globally."
+        "We envision a vibrant community of IEEE women and men collectively using their diverse talents to innovate"
+        "for the benefit of humanity."
+        "\n\n IEEE WIE strives to…"
+     "\n\n• Recognize the outstanding achievements of women in electrical and electronics engineering through IEEE Awards nominations."
+     "\n\n• Organize receptions at major technical conferences to enhance networking and to promote membership in WIE."
+     "\n\n• Advocate women in leadership roles in IEEE governance, and career advancement for women in the profession."
+     "\n\n• Provide assistance with the formation of new WIE Affinity Groups, and support ongoing activities."
+     "\n\n• Promote IEEE member grade advancement for women to the membership grades of Senior member and Fellow."
+     "\n\n• Facilitate the development of programs and activities that promote the entry into, and retention of, women in engineering programs."
+     "\n\n• Administer the IEEE Student-Teacher and Research Engineer/Scientist (STAR) Program to mentor young women in junior and high schools."
+    </string>
+    <string name="wietext2">
+        <b>About WIE</b>
+        "\n IEEE Women in Engineering (WIE) is one of the largest international professional organizations dedicated"
+        "to promoting women engineers and scientists, and inspiring girls around the world to follow their academic"
+        "interests in a career in engineering."
+    </string>
+    <string name="wietext3">
+        <b>Website:</b>
+        "\n http://wie.ieee.org/"
+    </string>
+    <string name="hometext1">
+      "IEEE Student Branch MJCET has been the frontrunner in providing quality technical education under the able"
+      "guidance of  Dr. Kaleem Fatima (Former Branch Counselor  IEEE  MJCET)  Mr.  Arifuddin  Sohel  (Former Branch"
+      "Mentor  IEEE MJCET and current branch counsellor), Mrs. Maniza Hijab (Chapter Advisor IEEE CIS MJCET) and Mrs. Ajaz"
+      "Fatima (Chapter Advisor IEEE PES MJCET).It was established in the year 2002 with an aim of making the students of"
+      "MJCET technically sound and to encourage students to prove their mettle."
+      "\n\nThe  student  branch  has  been  exploring  new  domains  in  the  fields  of industry and academia relationships with"
+      "the support from the IEEE Hyderabad Section. The student branch has started new chapters like the IEEE Computational"
+      "Intelligence Society(CIS), IEEE Computer Society (ICS), IEEE Circuits and Systems(CASS), Women In Engineering Affinity"
+      "Group (WIE) for the student community to excel besides the IEEE Power and Energy Society (PES)."
+     "\n\nIEEE MJCET has very good bonding with Hyderabad section since its inception and has regularly conducted events in"
+      "collaboration with section. The student branch has recently held HAMFEST INDIA 2014 which was organized by LARC and"
+      "IEEE HYD section."
+  </string>
+    <string name="hometext2">
+        <b>IEEE MJCET- At a Glance</b>
+"\n\n• IEEE MJCET SB is one of the most vibrant student branch of Hyderabad section and has recently won the award for"
+        “MOST VIBRANT SB” at SSC 2014. The student branch has won the award previously in the year 2011."
+"\n• In the same  year  our Branch Counselor Dr. Kaleem Fatima was conferred the title of ‘Outstanding Branch Counselor’
+        in the entire R10– region."
+"\n• In 2012, IEEE Student Branch MJCET was recognized as one of ‘the Innovative and Best Practices Student Branch’
+        by the IEEE Hyderabad Section."
+"\n• IEEE Student Branch MJCET crossed a milestone when its member-strength crossed the 200 mark and is currently
+        grooming about 220 potential students. With this,our IEEE-MJCET becomes one of the two/three
+        student branches in the entire state to hold this distinguished record of a massive
+        IEEE member-driven student organization comprising of varied talents and potentials."
+    </string>
+    <string name="hometext3">
+        <b>Official Websites:</b>
+        "\nhttps://www.ieee.org/"
+        "\nhttp://www.ieeehyd.org/"
+        "\nhttps://www.ieeefoundation.org/"
+
+    </string>
+    <string name="title_activity_cis_card">cis_card</string>
+    <string name="title_activity_ics_card">ics_card</string>
+    <string name="title_activity_pes_card">pes_card</string>
+    <string name="title_activity_cas_card">cas_card</string>
+    <string name="title_activity_wie_card">wie_card</string>
+    <string name="title_activity_login2">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_aaa">aaa</string>
+</resources>

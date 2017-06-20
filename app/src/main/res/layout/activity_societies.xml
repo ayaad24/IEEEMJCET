@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.example.ayaad.ieeemjcet.Societies">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/ciscard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="7dp"
+        android:nestedScrollingEnabled="true"
+        app:cardCornerRadius="40dp"
+        android:layout_margin="5dp"
+        app:cardElevation="7dp"
+        app:contentPadding="5dp"
+        android:onClick="ciscard">
+
+        <ImageView
+            android:id="@+id/cisimage"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/eee4" />
+
+        <TextView
+            android:id="@+id/cistext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:fontFamily="sans-serif"
+            android:padding="5dp"
+            android:text="IEEE Computer Intelligence Society (CIS)"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/icscard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ciscard"
+        android:elevation="7dp"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        app:cardBackgroundColor="@color/cardview_light_background"
+        app:cardCornerRadius="40dp"
+        app:cardElevation="7dp"
+        app:contentPadding="5dp"
+        android:onClick="icscard">
+
+        <ImageView
+            android:id="@+id/icsimage"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/eee3" />
+
+        <TextView
+            android:id="@+id/icstext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:fontFamily="sans-serif"
+            android:padding="5dp"
+            android:text="IEEE Computer Society (ICS)"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/pescard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="7dp"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        app:cardCornerRadius="40dp"
+        app:cardElevation="7dp"
+        app:contentPadding="5dp"
+        android:layout_below="@+id/icscard"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="pescard">
+
+        <ImageView
+            android:id="@+id/pesimage"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/eee5" />
+
+        <TextView
+            android:id="@+id/pestext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:fontFamily="sans-serif"
+            android:padding="5dp"
+            android:text="IEEE Power and Energy Society (PES)"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cascard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="7dp"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        app:cardCornerRadius="40dp"
+        app:cardElevation="7dp"
+        app:contentPadding="5dp"
+        android:layout_below="@+id/pescard"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="cascard">
+
+        <ImageView
+            android:id="@+id/casimage"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/eee2" />
+
+        <TextView
+            android:id="@+id/castext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:fontFamily="sans-serif"
+            android:padding="5dp"
+            android:text="IEEE Circuit and Systems Society (CAS)"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/wiecard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="7dp"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        app:cardCornerRadius="40dp"
+        app:cardElevation="7dp"
+        app:contentPadding="5dp"
+        android:layout_below="@+id/cascard"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="wiecard">
+
+        <ImageView
+            android:id="@+id/wieimage"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            app:srcCompat="@drawable/eee6" />
+
+        <TextView
+            android:id="@+id/wietext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:fontFamily="sans-serif"
+            android:padding="5dp"
+            android:text="IEEE Women in Engineering(WIE)"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+
+
+
+</android.support.v4.widget.NestedScrollView>

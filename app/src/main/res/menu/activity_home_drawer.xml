@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/hme"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_societies"
+            android:icon="@drawable/society"
+            android:title="IEEE Societies" />
+        <item
+            android:id="@+id/nav_solutions"
+            android:icon="@drawable/solutions"
+            android:title="IEEE Solutions" />
+        <item
+            android:id="@+id/nav_benifts"
+            android:icon="@drawable/benifts"
+            android:title="Benifts" />
+        <item
+            android:id="@+id/nav_form"
+            android:icon="@drawable/form"
+            android:title="Membership Form" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/events"
+            android:title="Events" />\
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_magazines"
+            android:icon="@drawable/magazines"
+            android:title="WIE Magazine" />
+
+    </group>
+    <item android:title="Communicate">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@drawable/contact"
+                    android:title="Contact Us" />
+                <item
+                    android:id="@+id/nav_follow"
+                    android:icon="@drawable/follow"
+                    android:title="Follow Us" />
+            </group>
+
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="About" />
+    </group>
+</menu>
